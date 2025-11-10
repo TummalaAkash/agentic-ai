@@ -50,7 +50,15 @@ A comprehensive web application for identifying at-risk students and providing p
 3. **Run the application**
    ```bash
    streamlit run app.py
-4. **Access the dashboard
-   Open your browser and navigate to http://localhost:8501
+
+agentic-ai-early-warning/
+├── app.py                 # Main Streamlit application
+├── train_model.py         # ML model training and prediction
+├── agent.py               # LangGraph agent workflow
+├── utils.py               # Utility functions and visualizations
+├── requirements.txt       # Python dependencies
+└── README.md              # This file
+
+
 
 
