@@ -47,5 +47,10 @@ A comprehensive web application for identifying at-risk students and providing p
 2. **Install dependencies**
    ```bash
    pip install -r requirements.txt
+3. **Run the application**
+   ```bash
+   streamlit run app.py
+4. **Access the dashboard
+   Open your browser and navigate to http://localhost:8501
 
 
