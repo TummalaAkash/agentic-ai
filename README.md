@@ -44,3 +44,8 @@ A comprehensive web application for identifying at-risk students and providing p
    ```bash
    git clone <repository-url>
    cd agentic-ai-early-warning
+2. **Install dependencies**
+   ```bash
+   pip install -r requirements.txt
+
+
